@@ -53,7 +53,7 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 * The GIMP
 * Krita
 * Inkscape
-* TODO: get some people to put 
+* TODO: get some people to put pixel art and other tools in here
 
 ### 3D tools
 * Blender3D
