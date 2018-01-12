@@ -67,5 +67,18 @@ You might not always be able to control how much time you have to prepare, but i
 * Install/update all your tools.
 
 ***Two days before the jam***
-* Install/update all your tools.  If you d
+* Install/update all your tools.  Yeah, that's right.  _AGAIN_.
 
+***Before you travel to the jam***
+* Write down _everything_ you're taking before you pack it up.  Or take a picture or something.
+* Make sure you've read all emails from us.
+
+## Even more info
+Believe it or not, this didn't all come from our brains.  Here are other resources that have helped us grow our own event and blaze our own gamedev trails...
+
+### Guides
+* St. Louis indie game studio Butterscotch Shenanigans hosted a [ShenaniJam](https://itch.io/jam/bscotch100), in which they've linked a ["living how-to-jam doc"](https://docs.google.com/document/d/1TyfszIh4Hx6U5R60xoLlIbjQ2yc6yurPdQ7IEbwmS3E/edit?usp=sharing) ... alongside other sage advice.
+
+### Podcasts
+* [Coffee with Butterscotch](https://www.bscotch.net/podcast/) - The studio that made Crashlands talks about making video games, continuous self improvement, 5lb gummy bears... also, look out because they use SWEAR WORDS.  All-around lovely and generous people, though :D
+* [Gamkedo](http://gamkedo.community/) - a podcast that started as "Game Developers Like You" by [Chris Deleon](https://twitter.com/ChrisDeLeon).  These days they record interviews at a weekly meetup attended by indie gamedevs accross the globe.
