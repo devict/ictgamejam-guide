@@ -43,29 +43,33 @@ You might not always be able to control how much time you have to prepare, but i
 Yeah, the internet is a steaming pile of opinions and they're all right and all wrong at the same time.  But these are tools commonly recommended by our community because we've _used them_ or otherwise know others in our community have.  AND we're willing to help others get started with these tools.  We can't write your games for you, but if you start hitting walls, we want to help knock those down.
 
 ### Game Engines
-* Unity3D - Can do 2D and 3D games.  Probably the most commonly used in our group.
-* Phaser.io - JavaScript library for 2D games you can play in your web browser.  
-* GameMaker - Laser-focused on 2D games, and does it well.
-* Pico-8 - Make games that run in a program that emulates old-school game consoles.  Intentionally simple.
+* [Unity3D](https://unity3d.com/) - Can do 2D and 3D games.  Probably the most commonly used in our group.
+* [Phaser.io](http://phaser.io/) - JavaScript library for 2D games you can play in your web browser.  
+* [GameMaker](https://www.yoyogames.com/gamemaker) - Laser-focused on 2D games, and does it well.
+* [Pico-8](https://www.lexaloffle.com/pico-8.php) - Make games that run in a program that emulates old-school game consoles.  Intentionally simple.
 * [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories.  Publish to HTML and play in a web browser.
+* [PuzzleScript](https://www.puzzlescript.net/) - Very simple, low res puzzle game engine
+* [RPG Maker](https://www.rpgmakerweb.com/products) - RPG game engine
+* [Inform 7](http://inform7.com/) - Interactive fiction game engine, english-like programming syntax
 
-### 2D tools - illustration, animation
-* The GIMP
-* Krita
-* Inkscape
-* [Aesprite](https://www.aseprite.org/)
-* TODO: get some people to put pixel art and other tools in here
+### 2D tools - illustration, animation, tilemaps
+* [GIMP](https://www.gimp.org/) - all purpose image creation/editing (fairly good for pixel art or digital paining)
+* [Krita](https://krita.org/) - digital painting and animation tool
+* [Inkscape](https://inkscape.org/) - vector graphics editor
+* [Aesprite](https://www.aseprite.org/) - pixel art and pixel art animation (can be purchased but building from source for free is also an option)
+* [Tiled](http://www.mapeditor.org/) - 2d tilemap editor, can do isometric and hexagonal tilemaps, can add objects and polygonal regions with custom data
+* [FontStruct](https://fontstruct.com/) - simple online font creation tool, good for pixel fonts
 
 ### 3D tools
-* Blender3D - fully featured
-* Clara.io - browser-based
+* [Blender3D](https://www.blender.org/) - fully featured
+* [Clara.io](https://clara.io/) - browser-based
 * [MagicaVoxel](http://ephtracy.github.io/)
 * ???
 
 ### Sound
-* Bfxr - browser or standalone chiptone sound effect creator
-* Beepbox.co - browser-based chiptune creator
-* Audacity - record your own sounds!
+* [Bfxr](https://www.bfxr.net/) - browser or standalone chiptone sound effect creator
+* [Beepbox.co](https://beepbox.co) - browser-based chiptune creator
+* [Audacity](https://www.audacityteam.org/) - record your own sounds!
 
 ### Source Control
 Whatever you choose to do, choose the one that lets you start building quickly.  It's a game jam, not a source control jam.
@@ -75,7 +79,8 @@ Whatever you choose to do, choose the one that lets you start building quickly. 
 * Have your developers figure out what they like best, and work out an art delivery pipeline that works :)
 
 ### Free/Free-to-use assets
-* Kenney.nl
+* [Kenney.nl](http://kenney.nl/)
+* [OpenGameArt.org](https://opengameart.org/)
 * ???
 
 ## Even more info
