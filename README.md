@@ -53,7 +53,7 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 * [Inform 7](http://inform7.com/) - Interactive fiction game engine, english-like programming syntax
 
 ### 2D tools - illustration, animation, tilemaps
-* [GIMP](https://www.gimp.org/) - all purpose image creation/editing (fairly good for pixel art or digital paining)
+* [GIMP](https://www.gimp.org/) - all purpose image creation/editing (fairly good for pixel art or digital painting)
 * [Krita](https://krita.org/) - digital painting and animation tool
 * [Inkscape](https://inkscape.org/) - vector graphics editor
 * [Aesprite](https://www.aseprite.org/) - pixel art and pixel art animation (can be purchased but building from source for free is also an option)
