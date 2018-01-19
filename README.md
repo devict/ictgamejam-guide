@@ -70,6 +70,7 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 * [Bfxr](https://www.bfxr.net/) - browser or standalone chiptone sound effect creator
 * [Beepbox.co](https://beepbox.co) - browser-based chiptune creator
 * [Audacity](https://www.audacityteam.org/) - record your own sounds!
+* [Bosca Ceoil](http://boscaceoil.net/) - beginner-friendly music program. Free, open source, and cross-platform.
 
 ### Source Control
 Whatever you choose to do, choose the one that lets you start building quickly.  It's a game jam, not a source control jam.
