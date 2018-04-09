@@ -82,6 +82,7 @@ Whatever you choose to do, choose the one that lets you start building quickly. 
 ### Free/Free-to-use assets
 * [Kenney.nl](http://kenney.nl/)
 * [OpenGameArt.org](https://opengameart.org/)
+* [Poly](https://poly.google.com/)
 * ???
 
 ## Even more info
