@@ -47,6 +47,7 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 * [Phaser.io](http://phaser.io/) - JavaScript library for 2D games you can play in your web browser.  
 * [GameMaker](https://www.yoyogames.com/gamemaker) - Laser-focused on 2D games, and does it well.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Make games that run in a program that emulates old-school game consoles.  Intentionally simple.
+* [Tic-80](https://tic.computer/) - Similar to Pico-8, make lo-fi games, many tools included in editor.
 * [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories.  Publish to HTML and play in a web browser.
 * [PuzzleScript](https://www.puzzlescript.net/) - Very simple, low res puzzle game engine
 * [RPG Maker](https://www.rpgmakerweb.com/products) - RPG game engine
