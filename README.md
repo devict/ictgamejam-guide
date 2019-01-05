@@ -92,6 +92,7 @@ Believe it or not, this didn't all come from our brains.  Here are other resourc
 ### Guides
 * St. Louis indie game studio Butterscotch Shenanigans hosted a [ShenaniJam](https://itch.io/jam/bscotch100), in which they've linked a ["living how-to-jam doc"](https://docs.google.com/document/d/1TyfszIh4Hx6U5R60xoLlIbjQ2yc6yurPdQ7IEbwmS3E/edit?usp=sharing) ... alongside other sage advice.
 * r/Gamedev's top posts tagged as 'Resource' [[link]](https://or.reddit.com/r/gamedev/top/)
+* [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) is a great YouTube channel for Unity3D tutorials, he also hosted a [game jam](https://itch.io/jam/brackeys) with helpful tips
 
 ### Podcasts
 * [Coffee with Butterscotch](https://www.bscotch.net/podcast/) - The studio that made Crashlands talks about making video games, continuous self improvement, 5lb gummy bears... also, look out because they use SWEAR WORDS.  All-around lovely and generous people, though :D
