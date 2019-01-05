@@ -46,6 +46,7 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 
 ### Game Engines
 * [Unity3D](https://unity3d.com/) - Can do 2D and 3D games.  Probably the most commonly used in our group.
+* [Unreal Engine](http://www.unrealengine.com) - Emphasis on high-quality 3D games.
 * [Phaser.io](http://phaser.io/) - JavaScript library for 2D games you can play in your web browser.  
 * [GameMaker](https://www.yoyogames.com/gamemaker) - Laser-focused on 2D games, and does it well.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Make games that run in a program that emulates old-school game consoles.  Intentionally simple.
@@ -67,7 +68,6 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 * [Blender3D](https://www.blender.org/) - fully featured
 * [Clara.io](https://clara.io/) - browser-based
 * [MagicaVoxel](http://ephtracy.github.io/)
-* ???
 
 ### Sound
 * [Bfxr](https://www.bfxr.net/) - browser or standalone chiptone sound effect creator
@@ -80,6 +80,7 @@ Whatever you choose to do, choose the one that lets you start building quickly. 
 * Git - we have a LOT of people using Git, and not just for games
 * Perforce - _very_ popular with Unity3D teams, especially with non-developers
 * Dropbox/Google Drive/OneDrive - dead simple file-sharing, zip up snapshots of work for safety.
+* USB drives, email, anything
 * Have your developers figure out what they like best, and work out an art delivery pipeline that works :)
 
 ### Free/Free-to-use assets
@@ -93,7 +94,7 @@ Believe it or not, this didn't all come from our brains.  Here are other resourc
 
 ### Guides
 * St. Louis indie game studio Butterscotch Shenanigans hosted a [ShenaniJam](https://itch.io/jam/bscotch100), in which they've linked a ["living how-to-jam doc"](https://docs.google.com/document/d/1TyfszIh4Hx6U5R60xoLlIbjQ2yc6yurPdQ7IEbwmS3E/edit?usp=sharing) ... alongside other sage advice.
-* r/Gamedev's top posts tagged as 'Resource' [[link]](https://or.reddit.com/r/gamedev/top/)
+* Reddit.com/r/Gamedev's Getting Started page [[link]](https://or.reddit.com/r/gamedev/wiki/faq#wiki_getting_started)
 * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) is a great YouTube channel for Unity3D tutorials, he also hosted a [game jam](https://itch.io/jam/brackeys) with helpful tips
 
 ### Podcasts
