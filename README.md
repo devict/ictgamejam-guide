@@ -2,7 +2,7 @@
 Wisdom commonly shared by the `#gamedev` channel in the Slack team for [devICT](http://devict.org/)
 
 ## What is this??
-We get a lot of questions, especially in the few months leading up to our bi-annual [ictgamejam.com](http://ictgamejam.com/) - so we figured it's time to crowdsource some of the most common advice and resources out in the open.  Much of this is geared towards people new to game jam
+We get a lot of questions, especially in the few months leading up to our semi-annual [ictgamejam.com](http://ictgamejam.com/) - so we figured it's time to crowdsource some of the most common advice and resources out in the open.  Much of this is geared towards people new to game jam
 
 Want to pitch in? Edit any of these files and submit a [Pull Request](https://github.com/devict/ictgamejam-guide/pulls) for us to review _in the browser!_ 
 
