@@ -47,6 +47,7 @@ Yeah, the internet is a steaming pile of opinions and they're all right and all 
 ### Game Engines
 * [Unity3D](https://unity3d.com/) - Can do 2D and 3D games.  Probably the most commonly used in our group.
 * [Unreal Engine](http://www.unrealengine.com) - Emphasis on high-quality 3D games.
+* [Godot](http://www.godotengine.org) - Free, open source game engine and editor. Can do 2D and 3D. Editor runs natively on Windows, Mac and Linux. Code in Python-like GDScript or C#.
 * [Phaser.io](http://phaser.io/) - JavaScript library for 2D games you can play in your web browser.  
 * [GameMaker](https://www.yoyogames.com/gamemaker) - Laser-focused on 2D games, and does it well.
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) - Make games that run in a program that emulates old-school game consoles.  Intentionally simple.
