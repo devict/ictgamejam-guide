@@ -1,3 +1,6 @@
+# Deprecated
+Don't edit this repository, instead edit the `guide.md` file in the ictgamejam repository.
+
 # ICT Game Jam Guide
 Wisdom commonly shared by the `#gamedev` channel in the Slack team for [devICT](http://devict.org/)
 
